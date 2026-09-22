@@ -1,6 +1,6 @@
 # 计算机视觉
 
-![计算机视觉内容总结涂鸦](../../../../translated_images/zh-CN/ai-computervision.6506ebebac3fbf76.webp)
+![计算机视觉内容总结涂鸦](../../../../lessons/sketchnotes/ai-computervision.png)
 
 在本节中，我们将学习以下内容：
 

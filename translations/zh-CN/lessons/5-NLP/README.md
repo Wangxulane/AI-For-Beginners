@@ -1,6 +1,6 @@
 # 自然语言处理
 
-![自然语言处理任务概览草图](../../../../translated_images/zh-CN/ai-nlp.b22dcb8ca4707cea.webp)
+![自然语言处理任务概览草图](../../../../lessons/sketchnotes/ai-nlp.png)
 
 在本节中，我们将重点使用神经网络处理与<strong>自然语言处理（NLP）</strong>相关的任务。我们希望计算机能够解决许多NLP问题：
 

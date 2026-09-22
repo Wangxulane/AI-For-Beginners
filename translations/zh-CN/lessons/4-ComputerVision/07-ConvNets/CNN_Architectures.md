@@ -4,11 +4,11 @@
 
 VGG-16是一种网络，在2014年的ImageNet top-5分类中达到了92.7%的准确率。它的层结构如下：
 
-![ImageNet Layers](../../../../../translated_images/zh-CN/vgg-16-arch1.d901a5583b3a51ba.webp)
+![ImageNet Layers](../../../../../lessons/4-ComputerVision/07-ConvNets/images/vgg-16-arch1.jpg)
 
 如图所示，VGG采用了传统的金字塔架构，即一系列卷积-池化层的组合。
 
-![ImageNet Pyramid](../../../../../translated_images/zh-CN/vgg-16-arch.64ff2137f50dd49f.webp)
+![ImageNet Pyramid](../../../../../lessons/4-ComputerVision/07-ConvNets/images/vgg-16-arch.jpg)
 
 > 图片来源：[Researchgate](https://www.researchgate.net/figure/Vgg16-model-structure-To-get-the-VGG-NIN-model-we-replace-the-2-nd-4-th-6-th-7-th_fig2_335194493)
 
@@ -16,7 +16,7 @@ VGG-16是一种网络，在2014年的ImageNet top-5分类中达到了92.7%的准
 
 ResNet是微软研究院在2015年提出的一系列模型。ResNet的核心思想是使用**残差块**：
 
-<img src="../../../../../translated_images/zh-CN/resnet-block.aba4ccbcc0944434.webp" width="300"/>
+<img src="../../../../../lessons/4-ComputerVision/07-ConvNets/images/resnet-block.png" width="300"/>
 
 > 图片来源：[这篇论文](https://arxiv.org/pdf/1512.03385.pdf)
 
@@ -28,7 +28,7 @@ ResNet是微软研究院在2015年提出的一系列模型。ResNet的核心思�
 
 Google Inception架构进一步发展了这一思想，将每一层网络构建为多个不同路径的组合：
 
-<img src="../../../../../translated_images/zh-CN/inception.a6605b85bcbc6f52.webp" width="400"/>
+<img src="../../../../../lessons/4-ComputerVision/07-ConvNets/images/inception.png" width="400"/>
 
 > 图片来源：[Researchgate](https://www.researchgate.net/figure/Inception-module-with-dimension-reductions-left-and-schema-for-Inception-ResNet-v1_fig2_355547454)
 
